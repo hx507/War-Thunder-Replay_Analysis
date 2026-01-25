@@ -1,0 +1,4322 @@
+{
+  "header": {
+    "magic": "b'\\xe5\\xac\\x00\\x10'",
+    "version": 101356,
+    "level": "avg_abandoned_factory",
+    "level_settings": "gamedata/missions/cta/tanks/abandoned_factory/abandoned_factory_bttl.blk",
+    "battle_type": "abandoned_factory_Bttl",
+    "environment": "day",
+    "visibility": "cloudy_windy",
+    "rez_offset": 7620464,
+    "difficulty_raw": 117,
+    "difficulty": 5,
+    "session_type": 0,
+    "session_id": "0x5c8d60e00",
+    "session_id_int": 24844307968,
+    "m_set_size": 184064,
+    "loc_name": "sions/_Bttl;abandoned_factory/name",
+    "start_time": 6505,
+    "time_limit": 1536000,
+    "score_limit": 0,
+    "battle_class": "_ground_Bttl",
+    "battle_kill_streak": "",
+    "file_size": 7645346,
+    "file_name": "#2025.12.06 12.35.35.wrpl",
+    "start_time_readable": "1969-12-31 19:48:25"
+  },
+  "status": "fail",
+  "time_played": 1009.16724,
+  "author_user_id": "43200976",
+  "author": "=WTGSK= D0048",
+  "players": [
+    {
+      "player": {
+        "user_id": "108320060",
+        "username": "Adobe_Photo29448",
+        "squadron_id": "2821",
+        "squadron_tag": "=CHPA=",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "108320060",
+        "squad": 1002,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 2932,
+        "kills": 1,
+        "ground_kills": 7,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 2,
+        "deaths": 5,
+        "capture_zone": 1,
+        "damage_zone": 0,
+        "score": 2865,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "j2m3",
+          "jp_type_5_ho_ri_prototype",
+          "jp_sub_i_ii_20mm",
+          "jp_m36b2_jgsdf",
+          "b7a2_homare_23",
+          "jp_m24_chaffee"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "108573231",
+        "username": "SiRSpiCEy895@live",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "xboxScarlett"
+      },
+      "player_data": {
+        "user_id": "108573231",
+        "squad": 2002,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 28748,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 377,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_V_ausf_g_panther",
+          "germ_panzerjager_panther",
+          "germ_pzkpfw_V_ausf_a_panther",
+          "germ_pzkpfw_VI_ausf_e_tiger",
+          "germ_sdkfz_234_2"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "132053618",
+        "username": "money_zay5@psn",
+        "squadron_id": "1027253",
+        "squadron_tag": "-TofS-",
+        "platform": "ps4"
+      },
+      "player_data": {
+        "user_id": "132053618",
+        "squad": 2004,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 23755,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 10,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_IV_ausf_J",
+          "fw-190d-9",
+          "germ_pzkpfw_VI_ausf_h1_tiger",
+          "me-410a-1_u4"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "132196316",
+        "username": "chickenhater137",
+        "squadron_id": "1122664",
+        "squadron_tag": "^RZMIT^",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "132196316",
+        "squad": 1004,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 19790,
+        "kills": 1,
+        "ground_kills": 4,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 2,
+        "deaths": 2,
+        "capture_zone": 1,
+        "damage_zone": 0,
+        "score": 2072,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "p-47d_30_italy",
+          "it_m36b1",
+          "it_leopard_bofors",
+          "it_m18_hellcat"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "140052894",
+        "username": "LiLxTwisTy@live",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "xboxScarlett"
+      },
+      "player_data": {
+        "user_id": "140052894",
+        "squad": 1001,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 1134,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 4,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 385,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "i_185_m82",
+          "ussr_t_34_85_zis_53",
+          "ussr_pt_76b",
+          "ussr_asu_57",
+          "ussr_btr_zd",
+          "ussr_is_1"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "155467843",
+        "username": "VividKeyser@psn",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "155467843",
+        "squad": 1001,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 671,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "capture_zone": 1,
+        "damage_zone": 0,
+        "score": 969,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "douglas_ad_4",
+          "us_t77e1",
+          "us_m6a1",
+          "us_m4a1_76w_sherman",
+          "us_m24_chaffee",
+          "p-51d-30_usaaf_korea",
+          "us_m18_hellcat"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "15841570",
+        "username": "Airbornostrich",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "15841570",
+        "squad": 1003,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 3006,
+        "kills": 2,
+        "ground_kills": 3,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 3,
+        "deaths": 2,
+        "capture_zone": 1,
+        "damage_zone": 0,
+        "score": 2336,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "spitfire_ix_usa",
+          "us_m18_hellcat_black_cat",
+          "f2g-1",
+          "us_m18_hellcat_kit_3rank",
+          "us_m4a3e2_sherman_jumbo",
+          "us_t77e1",
+          "us_m4a3e8_76w_sherman",
+          "us_m18_hellcat",
+          "us_t86"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "159395935",
+        "username": "Vlextkk@psn",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "159395935",
+        "squad": 2001,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 5698,
+        "kills": 0,
+        "ground_kills": 2,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 828,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_V_ausf_f_panther",
+          "germ_m109g",
+          "germ_pzkpfw_V_ausf_a_panther",
+          "ju-288c",
+          "germ_pzkpfw_V_ausf_g_panther",
+          "germ_pz_IV_L70",
+          "do_335b_2",
+          "germ_flakpanzer_zerstorer_45",
+          "germ_pzkpfw_VI_ausf_e_tiger"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "1691161",
+        "username": "Пердёж#2",
+        "squadron_id": "1061148",
+        "squadron_tag": "-BIBAS-",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "1691161",
+        "squad": 2000,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 5053,
+        "kills": 0,
+        "ground_kills": 4,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "capture_zone": 1,
+        "damage_zone": 0,
+        "score": 1313,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "arado-234",
+          "do_335b_2",
+          "germ_pzkpfw_VI_ausf_b_tiger_IIp",
+          "germ_kanonenjagdpanzer",
+          "germ_le_kpz_m41"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "177289173",
+        "username": "heftycow1971",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "macosx"
+      },
+      "player_data": {
+        "user_id": "177289173",
+        "squad": 2002,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 63,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 4,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 804,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_m55",
+          "germ_panzerjager_tiger_P_ferdinand",
+          "germ_flakpanzer_IV_Ostwind",
+          "germ_panzerjager_panther",
+          "germ_pzkpfw_VI_ausf_e_tiger"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "184741629",
+        "username": "M stug",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "184741629",
+        "squad": 4096,
+        "auto_squad": false,
+        "team": 1,
+        "wait_time": 4623,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 286,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "fc_20_bis",
+          "it_l3_cc",
+          "it_43m_turan_3",
+          "it_sherman_VII",
+          "it_pzkpfw_VI_ausf_e_tiger"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "185408025",
+        "username": "TheSwedishGuy1",
+        "squadron_id": "1126591",
+        "squadron_tag": "[SW3DN]",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "185408025",
+        "squad": 2001,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 67,
+        "kills": 0,
+        "ground_kills": 2,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1002,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "sw_pbv_501",
+          "sw_strv_74",
+          "sw_t_34_85_zis_53",
+          "sw_charioteer_mk_7",
+          "sw_bkan_1c"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "190314527",
+        "username": "perikin_volador@psn",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "190314527",
+        "squad": 1000,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 17753,
+        "kills": 0,
+        "ground_kills": 2,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 2,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1233,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "ussr_asu_85",
+          "pe-8_m82",
+          "ussr_t_34_85_stp_s53",
+          "ussr_is_2_1943",
+          "ussr_su_100_1945"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "209683758",
+        "username": "dclarke_nx",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "209683758",
+        "squad": 4096,
+        "auto_squad": false,
+        "team": 1,
+        "wait_time": 4623,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 99,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "mig_3_series_1_15",
+          "ussr_kv_1s",
+          "ussr_bt_5",
+          "ussr_kv_2_1939",
+          "ussr_kv_1_L_11"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "214574974",
+        "username": "Captain Balls#1",
+        "squadron_id": "1008440",
+        "squadron_tag": "[GKiLL]",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "214574974",
+        "squad": 4098,
+        "auto_squad": false,
+        "team": 2,
+        "wait_time": 11203,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 562,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_sdkfz_234_2",
+          "germ_pzkpfw_V_ausf_d_panther",
+          "bf-109f-1",
+          "germ_pzkpfw_VI_ausf_h1_tiger",
+          "germ_sdkfz_9_flak37"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "3104604",
+        "username": "Gunsofglory1",
+        "squadron_id": "1071799",
+        "squadron_tag": "[AItF4]",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "3104604",
+        "squad": 4097,
+        "auto_squad": false,
+        "team": 1,
+        "wait_time": 6075,
+        "kills": 0,
+        "ground_kills": 5,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 1,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1764,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "us_m26_pershing",
+          "us_t26e4_superpershing",
+          "us_t25",
+          "us_m4a3e2_76w_sherman_jumbo",
+          "us_t34",
+          "f7f3"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "32911436",
+        "username": "Товарищ И Сталин",
+        "squadron_id": "1089242",
+        "squadron_tag": "[RUS47]",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "32911436",
+        "squad": 2003,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 9875,
+        "kills": 0,
+        "ground_kills": 7,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1946,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_VI_ausf_h1_tiger"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "43200976",
+        "username": "D0048",
+        "squadron_id": "1094315",
+        "squadron_tag": "=WTGSK=",
+        "platform": "linux64"
+      },
+      "player_data": {
+        "user_id": "43200976",
+        "squad": 4099,
+        "auto_squad": false,
+        "team": 2,
+        "wait_time": 7032,
+        "kills": 1,
+        "ground_kills": 2,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1098,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "bf-109g-2_finland",
+          "sw_lvkv_42",
+          "sw_pt_76b",
+          "sw_t_34_85_zis_53",
+          "sw_strv_74"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "48167180",
+        "username": "Meth_Matician@psn",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "48167180",
+        "squad": 1003,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 87,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 2,
+        "deaths": 4,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1233,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "us_m4a1_76w_sherman",
+          "us_m19",
+          "us_m36",
+          "us_m4a3e2_sherman_jumbo",
+          "p-51_mk1a_usaaf"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "49458920",
+        "username": "Donnie_Adachi",
+        "squadron_id": "1061551",
+        "squadron_tag": "-PECK-",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "49458920",
+        "squad": 2003,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 6690,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 440,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_V_ausf_d_panther",
+          "germ_panzerbefelhswagen_VI_P",
+          "germ_pzkpfw_VI_ausf_h1_tiger",
+          "germ_vk_3002m",
+          "bf-109k-4",
+          "germ_kv_1_kwk_40",
+          "fw-190d-13"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "5047854",
+        "username": "ReddyTheYeddy",
+        "squadron_id": "1071799",
+        "squadron_tag": "[AItF4]",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "5047854",
+        "squad": 4097,
+        "auto_squad": false,
+        "team": 1,
+        "wait_time": 6075,
+        "kills": 2,
+        "ground_kills": 2,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1336,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "ussr_btr_zd",
+          "la-7",
+          "ussr_t_44",
+          "ussr_asu_85",
+          "ussr_is_2_1944"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "8389673",
+        "username": "LiquidLimes",
+        "squadron_id": "1089943",
+        "squadron_tag": "=S1ber=",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "8389673",
+        "squad": 4098,
+        "auto_squad": false,
+        "team": 2,
+        "wait_time": 11203,
+        "kills": 1,
+        "ground_kills": 3,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 6,
+        "deaths": 7,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 3060,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "do_335b_2",
+          "germ_sdkfz_234_4",
+          "germ_panzerbefelhswagen_VI_P",
+          "germ_pzkpfw_VI_ausf_h1_tiger_east",
+          "fw-190d-9",
+          "germ_sdkfz_234_2",
+          "germ_pzkpfw_VI_ausf_h1_tiger_west",
+          "germ_flakpanzer_IV_Ostwind_2_net"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "86447637",
+        "username": "PIAnoWang",
+        "squadron_id": "1103049",
+        "squadron_tag": "^XiaoY^",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "86447637",
+        "squad": 4099,
+        "auto_squad": false,
+        "team": 2,
+        "wait_time": 7032,
+        "kills": 3,
+        "ground_kills": 5,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 2623,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "sw_t_34_85_zis_53",
+          "bf-109g-2_finland",
+          "sw_strv_74",
+          "sw_lvkv_42",
+          "sw_pt_76b"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "88479154",
+        "username": "beast98tiger",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "88479154",
+        "squad": 1002,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 179,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 100,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "it_m36b1",
+          "it_leopard_bofors",
+          "tu-2_postwar_late_hungary",
+          "it_2s1",
+          "re_2005_serie0"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "111870303",
+        "username": "star-starszy@psn",
+        "squadron_id": "1017624",
+        "squadron_tag": "┾DGP┿",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "111870303",
+        "squad": 1005,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 715,
+        "kills": 0,
+        "ground_kills": 10,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 2,
+        "deaths": 1,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 2987,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "yak-1_early",
+          "ussr_pt_76b",
+          "ussr_btr_152d",
+          "ussr_t_34_85_zis_53",
+          "yak-9k",
+          "i-16_type27",
+          "ussr_t_34_85_d_5t",
+          "ussr_t_34_1941_57"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "176358450",
+        "username": "steve453hi9482@live",
+        "squadron_id": "1123255",
+        "squadron_tag": "-QUP69-",
+        "platform": "xboxScarlett"
+      },
+      "player_data": {
+        "user_id": "176358450",
+        "squad": 2004,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 60,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 677,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_V_ausf_d_panther",
+          "germ_pzkpfw_VI_ausf_e_tiger",
+          "germ_vk_3002m",
+          "germ_pzkpfw_VI_ausf_h1_tiger"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "195210440",
+        "username": "TheWanderingFool#1",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "195210440",
+        "squad": 2005,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 55,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 4,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 530,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "ju-87d-5",
+          "germ_sdkfz_234_2",
+          "germ_sdkfz_251_21",
+          "germ_pzkpfw_VI_ausf_h1_tiger",
+          "germ_panzerjager_nashorn"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "63553185",
+        "username": "Mihcal",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "63553185",
+        "squad": 1004,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 407,
+        "kills": 0,
+        "ground_kills": 5,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 2,
+        "deaths": 3,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 2070,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "yak-9k",
+          "ussr_t_34_85_zis_53",
+          "ussr_m4a2_76w_sherman",
+          "ussr_is_1_kit_3rank",
+          "ussr_pt_76b",
+          "pe-8_m82",
+          "p-47d_ussr",
+          "ussr_t_34_85_zis_53_kit_3rank",
+          "ussr_btr_152d"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "128616996",
+        "username": "Juanbust01@psn",
+        "squadron_id": "1082725",
+        "squadron_tag": "^TThuN^",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "128616996",
+        "squad": 1005,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 1152,
+        "kills": 0,
+        "ground_kills": 0,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 70,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "ussr_kv_1_zis_5",
+          "ussr_t_34_85_zis_53",
+          "ussr_is_1",
+          "ussr_gaz_mm_72k"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "69030605",
+        "username": "ghotraptor34@psn",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "ps5"
+      },
+      "player_data": {
+        "user_id": "69030605",
+        "squad": 2005,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 32,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 710,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_pzkpfw_VI_ausf_e_tiger",
+          "do_335b_2",
+          "germ_panzerjager_nashorn",
+          "germ_flakpanzer_IV_Ostwind_2",
+          "germ_pzkpfw_V_ausf_a_panther"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "203558990",
+        "username": "Bayronpro4005@live",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "xboxScarlett"
+      },
+      "player_data": {
+        "user_id": "203558990",
+        "squad": 2006,
+        "auto_squad": true,
+        "team": 2,
+        "wait_time": 80,
+        "kills": 0,
+        "ground_kills": 3,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 1,
+        "deaths": 6,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 1535,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "germ_vk_3002m",
+          "germ_m55",
+          "germ_flakpanzer_IV_Ostwind",
+          "he_100d_1",
+          "germ_pzkpfw_VI_ausf_h1_tiger"
+        ]
+      }
+    },
+    {
+      "player": {
+        "user_id": "32301808",
+        "username": "LegionnaIre",
+        "squadron_id": "",
+        "squadron_tag": "",
+        "platform": "win64"
+      },
+      "player_data": {
+        "user_id": "32301808",
+        "squad": 1006,
+        "auto_squad": true,
+        "team": 1,
+        "wait_time": 807,
+        "kills": 0,
+        "ground_kills": 1,
+        "naval_kills": 0,
+        "team_kills": 0,
+        "ai_kills": 0,
+        "ai_ground_kills": 0,
+        "ai_naval_kills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "capture_zone": 0,
+        "damage_zone": 0,
+        "score": 361,
+        "award_damage": 0,
+        "missile_evades": 0,
+        "lineup": [
+          "us_t14",
+          "us_m10",
+          "us_m4a1_1942_sherman",
+          "us_m18_hellcat",
+          "us_m4a3e2_sherman_jumbo",
+          "us_m6a1"
+        ]
+      }
+    }
+  ],
+  "blk_data": {
+    "status": "fail",
+    "timePlayed": 1009.16724,
+    "authorUserId": "43200976",
+    "author": "=WTGSK= D0048",
+    "matchingInfo": {},
+    "player": [
+      {
+        "name": "Adobe_Photo29448",
+        "clanTag": "=CHPA=",
+        "kills": 1,
+        "groundKills": 7,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 2,
+        "deaths": 5,
+        "captureZone": 1,
+        "damageZone": 0,
+        "score": 2865,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "108320060",
+        "squadId": 1002,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "SiRSpiCEy895@live",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 377,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "108573231",
+        "squadId": 2002,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "money_zay5@psn",
+        "clanTag": "-TofS-",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 10,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "132053618",
+        "squadId": 2004,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "chickenhater137",
+        "clanTag": "^RZMIT^",
+        "kills": 1,
+        "groundKills": 4,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 2,
+        "deaths": 2,
+        "captureZone": 1,
+        "damageZone": 0,
+        "score": 2072,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 1,
+        "userId": "132196316",
+        "squadId": 1004,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "LiLxTwisTy@live",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 4,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 385,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "140052894",
+        "squadId": 1001,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "VividKeyser@psn",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "captureZone": 1,
+        "damageZone": 0,
+        "score": 969,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "155467843",
+        "squadId": 1001,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "Airbornostrich",
+        "clanTag": "",
+        "kills": 2,
+        "groundKills": 3,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 3,
+        "deaths": 2,
+        "captureZone": 1,
+        "damageZone": 0,
+        "score": 2336,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "15841570",
+        "squadId": 1003,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "Vlextkk@psn",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 2,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 828,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "159395935",
+        "squadId": 2001,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "Пердёж#2",
+        "clanTag": "-BIBAS-",
+        "kills": 0,
+        "groundKills": 4,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "captureZone": 1,
+        "damageZone": 0,
+        "score": 1313,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "1691161",
+        "squadId": 2000,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "heftycow1971",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 4,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 804,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "177289173",
+        "squadId": 2002,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "M stug",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 286,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "184741629",
+        "squadId": 4096,
+        "autoSquad": false,
+        "team": 1
+      },
+      {
+        "name": "TheSwedishGuy1",
+        "clanTag": "[SW3DN]",
+        "kills": 0,
+        "groundKills": 2,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1002,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "185408025",
+        "squadId": 2001,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "perikin_volador@psn",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 2,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 2,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1233,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "190314527",
+        "squadId": 1000,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "dclarke_nx",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 99,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "209683758",
+        "squadId": 4096,
+        "autoSquad": false,
+        "team": 1
+      },
+      {
+        "name": "Captain Balls#1",
+        "clanTag": "[GKiLL]",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 562,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "214574974",
+        "squadId": 4098,
+        "autoSquad": false,
+        "team": 2
+      },
+      {
+        "name": "Gunsofglory1",
+        "clanTag": "[AItF4]",
+        "kills": 0,
+        "groundKills": 5,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 1,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1764,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "3104604",
+        "squadId": 4097,
+        "autoSquad": false,
+        "team": 1
+      },
+      {
+        "name": "Товарищ И Сталин",
+        "clanTag": "[RUS47]",
+        "kills": 0,
+        "groundKills": 7,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1946,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "32911436",
+        "squadId": 2003,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "D0048",
+        "clanTag": "=WTGSK=",
+        "kills": 1,
+        "groundKills": 2,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1098,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "43200976",
+        "squadId": 4099,
+        "autoSquad": false,
+        "team": 2
+      },
+      {
+        "name": "Meth_Matician@psn",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 2,
+        "deaths": 4,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1233,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "48167180",
+        "squadId": 1003,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "Donnie_Adachi",
+        "clanTag": "-PECK-",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 440,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "49458920",
+        "squadId": 2003,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "ReddyTheYeddy",
+        "clanTag": "[AItF4]",
+        "kills": 2,
+        "groundKills": 2,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1336,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "5047854",
+        "squadId": 4097,
+        "autoSquad": false,
+        "team": 1
+      },
+      {
+        "name": "LiquidLimes",
+        "clanTag": "=S1ber=",
+        "kills": 1,
+        "groundKills": 3,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 6,
+        "deaths": 7,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 3060,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "8389673",
+        "squadId": 4098,
+        "autoSquad": false,
+        "team": 2
+      },
+      {
+        "name": "PIAnoWang",
+        "clanTag": "^XiaoY^",
+        "kills": 3,
+        "groundKills": 5,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 2623,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "86447637",
+        "squadId": 4099,
+        "autoSquad": false,
+        "team": 2
+      },
+      {
+        "name": "beast98tiger",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 100,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "88479154",
+        "squadId": 1002,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "star-starszy@psn",
+        "clanTag": "┾DGP┿",
+        "kills": 0,
+        "groundKills": 10,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 2,
+        "deaths": 1,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 2987,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "111870303",
+        "squadId": 1005,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "steve453hi9482@live",
+        "clanTag": "-QUP69-",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 677,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "176358450",
+        "squadId": 2004,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "TheWanderingFool#1",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 4,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 530,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "195210440",
+        "squadId": 2005,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "Mihcal",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 5,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 2,
+        "deaths": 3,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 2070,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "63553185",
+        "squadId": 1004,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "Juanbust01@psn",
+        "clanTag": "^TThuN^",
+        "kills": 0,
+        "groundKills": 0,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 1,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 70,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "128616996",
+        "squadId": 1005,
+        "autoSquad": true,
+        "team": 1
+      },
+      {
+        "name": "ghotraptor34@psn",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 710,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "69030605",
+        "squadId": 2005,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "Bayronpro4005@live",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 3,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 1,
+        "deaths": 6,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 1535,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "203558990",
+        "squadId": 2006,
+        "autoSquad": true,
+        "team": 2
+      },
+      {
+        "name": "LegionnaIre",
+        "clanTag": "",
+        "kills": 0,
+        "groundKills": 1,
+        "humanKills": 0,
+        "navalKills": 0,
+        "teamKills": 0,
+        "aiKills": 0,
+        "aiGroundKills": 0,
+        "aiNavalKills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "captureZone": 0,
+        "damageZone": 0,
+        "score": 361,
+        "awardDamage": 0,
+        "missileEvades": 0,
+        "shellIntgerceptions": 0,
+        "userId": "32301808",
+        "squadId": 1006,
+        "autoSquad": true,
+        "team": 1
+      }
+    ],
+    "uiScriptsData": {
+      "playersInfo": {
+        "__int_155467843": {
+          "name": "VividKeyser@psn",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "ps5",
+          "id": 155467843,
+          "slot": 3,
+          "country": "country_usa",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 671,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 1001,
+          "rank": 15,
+          "crafts": {
+            "5": "douglas_ad_4",
+            "6": "us_t77e1",
+            "3": "us_m6a1",
+            "4": "us_m4a1_76w_sherman",
+            "1": "us_m24_chaffee",
+            "2": "p-51d-30_usaaf_korea",
+            "0": "us_m18_hellcat"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 5,
+              "name": "douglas_ad_4",
+              "type": "assault",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "us_m18_hellcat",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "us_m4a1_76w_sherman",
+              "type": "tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "p-51d-30_usaaf_korea",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "us_m6a1",
+              "type": "heavy_tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 6,
+              "name": "us_t77e1",
+              "type": "SPAA",
+              "mrank": 9,
+              "rank": 2
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "us_m24_chaffee",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 2
+            }
+          }
+        },
+        "__int_195210440": {
+          "name": "TheWanderingFool#1",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 195210440,
+          "slot": 4,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 55,
+          "clanId": -1,
+          "tier": 3,
+          "squad": 2005,
+          "rank": 14,
+          "crafts": {
+            "3": "ju-87d-5",
+            "4": "germ_sdkfz_234_2",
+            "1": "germ_sdkfz_251_21",
+            "2": "germ_pzkpfw_VI_ausf_h1_tiger",
+            "0": "germ_panzerjager_nashorn"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_panzerjager_nashorn",
+              "type": "tank_destroyer",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "germ_sdkfz_234_2",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 2
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_sdkfz_251_21",
+              "type": "SPAA",
+              "mrank": 7,
+              "rank": 2
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "ju-87d-5",
+              "type": "bomber",
+              "mrank": 7,
+              "rank": 2
+            }
+          }
+        },
+        "__int_32911436": {
+          "name": "Товарищ И Сталин",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "[RUS47]",
+          "platform": "win64",
+          "id": 32911436,
+          "slot": 0,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 9875,
+          "clanId": 1089242,
+          "tier": 3,
+          "squad": 2003,
+          "rank": 14,
+          "crafts": {
+            "0": "germ_pzkpfw_VI_ausf_h1_tiger"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 0,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            }
+          }
+        },
+        "__int_69030605": {
+          "name": "ghotraptor34@psn",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "",
+          "platform": "ps5",
+          "id": 69030605,
+          "slot": 4,
+          "country": "country_germany",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 32,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 2005,
+          "rank": 15,
+          "crafts": {
+            "3": "germ_pzkpfw_VI_ausf_e_tiger",
+            "4": "do_335b_2",
+            "1": "germ_panzerjager_nashorn",
+            "2": "germ_flakpanzer_IV_Ostwind_2",
+            "0": "germ_pzkpfw_V_ausf_a_panther"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "germ_pzkpfw_VI_ausf_e_tiger",
+              "type": "heavy_tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_pzkpfw_V_ausf_a_panther",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "do_335b_2",
+              "type": "assault",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_flakpanzer_IV_Ostwind_2",
+              "type": "SPAA",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_panzerjager_nashorn",
+              "type": "tank_destroyer",
+              "mrank": 13,
+              "rank": 3
+            }
+          }
+        },
+        "__int_203558990": {
+          "name": "Bayronpro4005@live",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "",
+          "platform": "xboxScarlett",
+          "id": 203558990,
+          "slot": 4,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 80,
+          "clanId": -1,
+          "tier": 3,
+          "squad": 2006,
+          "rank": 14,
+          "crafts": {
+            "3": "germ_vk_3002m",
+            "4": "germ_m55",
+            "1": "germ_flakpanzer_IV_Ostwind",
+            "2": "he_100d_1",
+            "0": "germ_pzkpfw_VI_ausf_h1_tiger"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 0,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_vk_3002m",
+              "type": "tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "germ_m55",
+              "type": "tank_destroyer",
+              "mrank": 9,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_flakpanzer_IV_Ostwind",
+              "type": "SPAA",
+              "mrank": 7,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "he_100d_1",
+              "type": "fighter",
+              "mrank": 2,
+              "rank": 1
+            }
+          }
+        },
+        "__int_43200976": {
+          "name": "D0048",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "=WTGSK=",
+          "platform": "linux64",
+          "id": 43200976,
+          "slot": 0,
+          "country": "country_sweden",
+          "mrank": 14,
+          "auto_squad": false,
+          "wait_time": 7032,
+          "clanId": 1094315,
+          "tier": 4,
+          "squad": 4099,
+          "rank": 14,
+          "crafts": {
+            "3": "bf-109g-2_finland",
+            "4": "sw_lvkv_42",
+            "1": "sw_pt_76b",
+            "2": "sw_t_34_85_zis_53",
+            "0": "sw_strv_74"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "sw_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "sw_strv_74",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "sw_pt_76b",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "sw_lvkv_42",
+              "type": "SPAA",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "bf-109g-2_finland",
+              "type": "fighter",
+              "mrank": 10,
+              "rank": 4
+            }
+          }
+        },
+        "__int_177289173": {
+          "name": "heftycow1971",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "",
+          "platform": "macosx",
+          "id": 177289173,
+          "slot": 4,
+          "country": "country_germany",
+          "mrank": 17,
+          "auto_squad": true,
+          "wait_time": 63,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 2002,
+          "rank": 17,
+          "crafts": {
+            "3": "germ_m55",
+            "4": "germ_panzerjager_tiger_P_ferdinand",
+            "1": "germ_flakpanzer_IV_Ostwind",
+            "2": "germ_panzerjager_panther",
+            "0": "germ_pzkpfw_VI_ausf_e_tiger"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 4,
+              "name": "germ_panzerjager_tiger_P_ferdinand",
+              "type": "tank_destroyer",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_panzerjager_panther",
+              "type": "tank_destroyer",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_pzkpfw_VI_ausf_e_tiger",
+              "type": "heavy_tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_m55",
+              "type": "tank_destroyer",
+              "mrank": 9,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_flakpanzer_IV_Ostwind",
+              "type": "SPAA",
+              "mrank": 7,
+              "rank": 3
+            }
+          }
+        },
+        "__int_185408025": {
+          "name": "TheSwedishGuy1",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "[SW3DN]",
+          "platform": "win64",
+          "id": 185408025,
+          "slot": 1,
+          "country": "country_sweden",
+          "mrank": 17,
+          "auto_squad": true,
+          "wait_time": 67,
+          "clanId": 1126591,
+          "tier": 4,
+          "squad": 2001,
+          "rank": 17,
+          "crafts": {
+            "3": "sw_pbv_501",
+            "4": "sw_strv_74",
+            "1": "sw_t_34_85_zis_53",
+            "2": "sw_charioteer_mk_7",
+            "0": "sw_bkan_1c"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "sw_pbv_501",
+              "type": "tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "sw_bkan_1c",
+              "type": "tank_destroyer",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "sw_charioteer_mk_7",
+              "type": "tank",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "sw_strv_74",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "sw_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 4
+            }
+          }
+        },
+        "__int_3104604": {
+          "name": "Gunsofglory1",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "[AItF4]",
+          "platform": "win64",
+          "id": 3104604,
+          "slot": 3,
+          "country": "country_usa",
+          "mrank": 17,
+          "auto_squad": false,
+          "wait_time": 6075,
+          "clanId": 1071799,
+          "tier": 4,
+          "squad": 4097,
+          "rank": 17,
+          "crafts": {
+            "5": "us_m26_pershing",
+            "3": "us_t26e4_superpershing",
+            "4": "us_t25",
+            "1": "us_m4a3e2_76w_sherman_jumbo",
+            "2": "us_t34",
+            "0": "f7f3"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "us_t26e4_superpershing",
+              "type": "heavy_tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "us_t34",
+              "type": "heavy_tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "us_m26_pershing",
+              "type": "tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "us_t25",
+              "type": "tank",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "us_m4a3e2_76w_sherman_jumbo",
+              "type": "heavy_tank",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "f7f3",
+              "type": "fighter",
+              "mrank": 16,
+              "rank": 4
+            }
+          }
+        },
+        "__int_140052894": {
+          "name": "LiLxTwisTy@live",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "xboxScarlett",
+          "id": 140052894,
+          "slot": 0,
+          "country": "country_ussr",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 1134,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 1001,
+          "rank": 15,
+          "crafts": {
+            "5": "i_185_m82",
+            "3": "ussr_t_34_85_zis_53",
+            "4": "ussr_pt_76b",
+            "1": "ussr_asu_57",
+            "2": "ussr_btr_zd",
+            "0": "ussr_is_1"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "ussr_btr_zd",
+              "type": "SPAA",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "ussr_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_is_1",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "ussr_pt_76b",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "ussr_asu_57",
+              "type": "tank_destroyer",
+              "mrank": 10,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "i_185_m82",
+              "type": "fighter",
+              "mrank": 8,
+              "rank": 3
+            }
+          }
+        },
+        "__int_111870303": {
+          "name": "star-starszy@psn",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "┾DGP┿",
+          "platform": "ps5",
+          "id": 111870303,
+          "slot": 0,
+          "country": "country_ussr",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 715,
+          "clanId": 1017624,
+          "tier": 3,
+          "squad": 1005,
+          "rank": 14,
+          "crafts": {
+            "5": "yak-1_early",
+            "3": "ussr_pt_76b",
+            "4": "ussr_btr_152d",
+            "2": "ussr_t_34_85_zis_53",
+            "7": "yak-9k",
+            "6": "i-16_type27",
+            "1": "ussr_t_34_85_d_5t",
+            "0": "ussr_t_34_1941_57"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "ussr_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "ussr_pt_76b",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "ussr_t_34_85_d_5t",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 7,
+              "name": "yak-9k",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_t_34_1941_57",
+              "type": "tank",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "ussr_btr_152d",
+              "type": "SPAA",
+              "mrank": 9,
+              "rank": 3
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 6,
+              "name": "i-16_type27",
+              "type": "fighter",
+              "mrank": 7,
+              "rank": 2
+            },
+            "array7": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "yak-1_early",
+              "type": "fighter",
+              "mrank": 4,
+              "rank": 2
+            }
+          }
+        },
+        "__int_63553185": {
+          "name": "Mihcal",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 63553185,
+          "slot": 3,
+          "country": "country_ussr",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 407,
+          "clanId": -1,
+          "tier": 3,
+          "squad": 1004,
+          "rank": 14,
+          "crafts": {
+            "5": "yak-9k",
+            "3": "ussr_t_34_85_zis_53",
+            "4": "ussr_m4a2_76w_sherman",
+            "2": "ussr_is_1_kit_3rank",
+            "7": "ussr_pt_76b",
+            "8": "pe-8_m82",
+            "6": "p-47d_ussr",
+            "1": "ussr_t_34_85_zis_53_kit_3rank",
+            "0": "ussr_btr_152d"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "ussr_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "ussr_is_1_kit_3rank",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "ussr_t_34_85_zis_53_kit_3rank",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 7,
+              "name": "ussr_pt_76b",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "ussr_m4a2_76w_sherman",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "yak-9k",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 8,
+              "name": "pe-8_m82",
+              "type": "bomber",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array7": {
+              "rankUnused": true,
+              "slot": 6,
+              "name": "p-47d_ussr",
+              "type": "fighter",
+              "mrank": 10,
+              "rank": 3
+            },
+            "array8": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_btr_152d",
+              "type": "SPAA",
+              "mrank": 9,
+              "rank": 3
+            }
+          }
+        },
+        "__int_15841570": {
+          "name": "Airbornostrich",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 15841570,
+          "slot": 0,
+          "country": "country_usa",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 3006,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 1003,
+          "rank": 15,
+          "crafts": {
+            "5": "spitfire_ix_usa",
+            "3": "us_m18_hellcat_black_cat",
+            "4": "f2g-1",
+            "2": "us_m18_hellcat_kit_3rank",
+            "7": "us_m4a3e2_sherman_jumbo",
+            "8": "us_t77e1",
+            "6": "us_m4a3e8_76w_sherman",
+            "1": "us_m18_hellcat",
+            "0": "us_t86"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "us_m18_hellcat_black_cat",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "us_m18_hellcat_kit_3rank",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "f2g-1",
+              "type": "fighter",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "us_m18_hellcat",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "us_t86",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 7,
+              "name": "us_m4a3e2_sherman_jumbo",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 6,
+              "name": "us_m4a3e8_76w_sherman",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array7": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "spitfire_ix_usa",
+              "type": "fighter",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array8": {
+              "rankUnused": true,
+              "slot": 8,
+              "name": "us_t77e1",
+              "type": "SPAA",
+              "mrank": 9,
+              "rank": 2
+            }
+          }
+        },
+        "__int_128616996": {
+          "name": "Juanbust01@psn",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "^TThuN^",
+          "platform": "ps5",
+          "id": 128616996,
+          "slot": 2,
+          "country": "country_ussr",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 1152,
+          "clanId": 1082725,
+          "tier": 3,
+          "squad": 1005,
+          "rank": 14,
+          "crafts": {
+            "3": "ussr_kv_1_zis_5",
+            "1": "ussr_t_34_85_zis_53",
+            "2": "ussr_is_1",
+            "0": "ussr_gaz_mm_72k"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "ussr_is_1",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "ussr_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "ussr_kv_1_zis_5",
+              "type": "heavy_tank",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_gaz_mm_72k",
+              "type": "SPAA",
+              "mrank": 4,
+              "rank": 2
+            }
+          }
+        },
+        "__int_49458920": {
+          "name": "Donnie_Adachi",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "-PECK-",
+          "platform": "win64",
+          "id": 49458920,
+          "slot": 2,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 6690,
+          "clanId": 1061551,
+          "tier": 4,
+          "squad": 2003,
+          "rank": 14,
+          "crafts": {
+            "5": "germ_pzkpfw_V_ausf_d_panther",
+            "6": "germ_panzerbefelhswagen_VI_P",
+            "3": "germ_pzkpfw_VI_ausf_h1_tiger",
+            "4": "germ_vk_3002m",
+            "1": "bf-109k-4",
+            "2": "germ_kv_1_kwk_40",
+            "0": "fw-190d-13"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 6,
+              "name": "germ_panzerbefelhswagen_VI_P",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "bf-109k-4",
+              "type": "fighter",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "germ_pzkpfw_V_ausf_d_panther",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "germ_vk_3002m",
+              "type": "tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_kv_1_kwk_40",
+              "type": "heavy_tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "fw-190d-13",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 4
+            }
+          }
+        },
+        "__int_8389673": {
+          "name": "LiquidLimes",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "=S1ber=",
+          "platform": "win64",
+          "id": 8389673,
+          "slot": 7,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": false,
+          "wait_time": 11203,
+          "clanId": 1089943,
+          "tier": 4,
+          "squad": 4098,
+          "rank": 14,
+          "crafts": {
+            "5": "do_335b_2",
+            "3": "germ_sdkfz_234_4",
+            "4": "germ_panzerbefelhswagen_VI_P",
+            "2": "germ_pzkpfw_VI_ausf_h1_tiger_east",
+            "7": "fw-190d-9",
+            "6": "germ_sdkfz_234_2",
+            "1": "germ_pzkpfw_VI_ausf_h1_tiger_west",
+            "0": "germ_flakpanzer_IV_Ostwind_2_net"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 5,
+              "name": "do_335b_2",
+              "type": "assault",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "germ_panzerbefelhswagen_VI_P",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger_east",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger_west",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_flakpanzer_IV_Ostwind_2_net",
+              "type": "SPAA",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 7,
+              "name": "fw-190d-9",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_sdkfz_234_4",
+              "type": "tank_destroyer",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array7": {
+              "rankUnused": true,
+              "slot": 6,
+              "name": "germ_sdkfz_234_2",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 2
+            }
+          }
+        },
+        "__int_209683758": {
+          "name": "dclarke_nx",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 209683758,
+          "slot": 1,
+          "country": "country_ussr",
+          "mrank": 15,
+          "auto_squad": false,
+          "wait_time": 4623,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 4096,
+          "rank": 15,
+          "crafts": {
+            "3": "mig_3_series_1_15",
+            "4": "ussr_kv_1s",
+            "1": "ussr_bt_5",
+            "2": "ussr_kv_2_1939",
+            "0": "ussr_kv_1_L_11"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 4,
+              "name": "ussr_kv_1s",
+              "type": "heavy_tank",
+              "mrank": 10,
+              "rank": 2
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "ussr_kv_2_1939",
+              "type": "heavy_tank",
+              "mrank": 8,
+              "rank": 2
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_kv_1_L_11",
+              "type": "heavy_tank",
+              "mrank": 8,
+              "rank": 2
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "mig_3_series_1_15",
+              "type": "fighter",
+              "mrank": 4,
+              "rank": 1
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "ussr_bt_5",
+              "type": "tank",
+              "mrank": 0,
+              "rank": 1
+            }
+          }
+        },
+        "__int_108573231": {
+          "name": "SiRSpiCEy895@live",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "",
+          "platform": "xboxScarlett",
+          "id": 108573231,
+          "slot": 0,
+          "country": "country_germany",
+          "mrank": 16,
+          "auto_squad": true,
+          "wait_time": 28748,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 2002,
+          "rank": 16,
+          "crafts": {
+            "3": "germ_pzkpfw_V_ausf_g_panther",
+            "4": "germ_panzerjager_panther",
+            "1": "germ_pzkpfw_V_ausf_a_panther",
+            "2": "germ_pzkpfw_VI_ausf_e_tiger",
+            "0": "germ_sdkfz_234_2"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 4,
+              "name": "germ_panzerjager_panther",
+              "type": "tank_destroyer",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_pzkpfw_VI_ausf_e_tiger",
+              "type": "heavy_tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_pzkpfw_V_ausf_g_panther",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_pzkpfw_V_ausf_a_panther",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_sdkfz_234_2",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 2
+            }
+          }
+        },
+        "__int_32301808": {
+          "name": "LegionnaIre",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 32301808,
+          "slot": 0,
+          "country": "country_usa",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 807,
+          "clanId": -1,
+          "tier": 3,
+          "squad": 1006,
+          "rank": 15,
+          "crafts": {
+            "5": "us_t14",
+            "3": "us_m10",
+            "4": "us_m4a1_1942_sherman",
+            "1": "us_m18_hellcat",
+            "2": "us_m4a3e2_sherman_jumbo",
+            "0": "us_m6a1"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 1,
+              "name": "us_m18_hellcat",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "us_m4a3e2_sherman_jumbo",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "us_m6a1",
+              "type": "heavy_tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "us_t14",
+              "type": "heavy_tank",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "us_m4a1_1942_sherman",
+              "type": "tank",
+              "mrank": 7,
+              "rank": 2
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "us_m10",
+              "type": "tank_destroyer",
+              "mrank": 7,
+              "rank": 2
+            }
+          }
+        },
+        "__int_176358450": {
+          "name": "steve453hi9482@live",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "-QUP69-",
+          "platform": "xboxScarlett",
+          "id": 176358450,
+          "slot": 1,
+          "country": "country_germany",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 60,
+          "clanId": 1123255,
+          "tier": 3,
+          "squad": 2004,
+          "rank": 15,
+          "crafts": {
+            "3": "germ_pzkpfw_V_ausf_d_panther",
+            "4": "germ_pzkpfw_VI_ausf_e_tiger",
+            "1": "germ_vk_3002m",
+            "2": "germ_pzkpfw_VI_ausf_h1_tiger"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 4,
+              "name": "germ_pzkpfw_VI_ausf_e_tiger",
+              "type": "heavy_tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_pzkpfw_V_ausf_d_panther",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_vk_3002m",
+              "type": "tank",
+              "mrank": 12,
+              "rank": 3
+            }
+          }
+        },
+        "__int_159395935": {
+          "name": "Vlextkk@psn",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "",
+          "platform": "ps5",
+          "id": 159395935,
+          "slot": 5,
+          "country": "country_germany",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 5698,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 2001,
+          "rank": 15,
+          "crafts": {
+            "5": "germ_pzkpfw_V_ausf_f_panther",
+            "3": "germ_m109g",
+            "4": "germ_pzkpfw_V_ausf_a_panther",
+            "2": "ju-288c",
+            "7": "germ_pzkpfw_V_ausf_g_panther",
+            "8": "germ_pz_IV_L70",
+            "6": "do_335b_2",
+            "1": "germ_flakpanzer_zerstorer_45",
+            "0": "germ_pzkpfw_VI_ausf_e_tiger"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 5,
+              "name": "germ_pzkpfw_V_ausf_f_panther",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_m109g",
+              "type": "tank_destroyer",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "ju-288c",
+              "type": "bomber",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 7,
+              "name": "germ_pzkpfw_V_ausf_g_panther",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "germ_pzkpfw_V_ausf_a_panther",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "germ_flakpanzer_zerstorer_45",
+              "type": "SPAA",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array6": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_pzkpfw_VI_ausf_e_tiger",
+              "type": "heavy_tank",
+              "mrank": 15,
+              "rank": 3
+            },
+            "array7": {
+              "rankUnused": true,
+              "slot": 8,
+              "name": "germ_pz_IV_L70",
+              "type": "tank_destroyer",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array8": {
+              "rankUnused": true,
+              "slot": 6,
+              "name": "do_335b_2",
+              "type": "assault",
+              "mrank": 14,
+              "rank": 4
+            }
+          }
+        },
+        "__int_132053618": {
+          "name": "money_zay5@psn",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "-TofS-",
+          "platform": "ps4",
+          "id": 132053618,
+          "slot": 0,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 23755,
+          "clanId": 1027253,
+          "tier": 3,
+          "squad": 2004,
+          "rank": 14,
+          "crafts": {
+            "3": "germ_pzkpfw_IV_ausf_J",
+            "4": "fw-190d-9",
+            "2": "germ_pzkpfw_VI_ausf_h1_tiger",
+            "0": "me-410a-1_u4"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "fw-190d-9",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_pzkpfw_IV_ausf_J",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 2
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "me-410a-1_u4",
+              "type": "assault",
+              "mrank": 5,
+              "rank": 2
+            }
+          }
+        },
+        "__int_132196316": {
+          "name": "chickenhater137",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "^RZMIT^",
+          "platform": "win64",
+          "id": 132196316,
+          "slot": 4,
+          "country": "country_italy",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 19790,
+          "clanId": 1122664,
+          "tier": 4,
+          "squad": 1004,
+          "rank": 15,
+          "crafts": {
+            "4": "p-47d_30_italy",
+            "1": "it_m36b1",
+            "2": "it_leopard_bofors",
+            "0": "it_m18_hellcat"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "it_leopard_bofors",
+              "type": "SPAA",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "it_m18_hellcat",
+              "type": "tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "it_m36b1",
+              "type": "tank_destroyer",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "p-47d_30_italy",
+              "type": "fighter",
+              "mrank": 12,
+              "rank": 3
+            }
+          }
+        },
+        "__int_86447637": {
+          "name": "PIAnoWang",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "^XiaoY^",
+          "platform": "win64",
+          "id": 86447637,
+          "slot": 1,
+          "country": "country_sweden",
+          "mrank": 14,
+          "auto_squad": false,
+          "wait_time": 7032,
+          "clanId": 1103049,
+          "tier": 4,
+          "squad": 4099,
+          "rank": 14,
+          "crafts": {
+            "3": "sw_t_34_85_zis_53",
+            "4": "bf-109g-2_finland",
+            "1": "sw_strv_74",
+            "2": "sw_lvkv_42",
+            "0": "sw_pt_76b"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "sw_t_34_85_zis_53",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "sw_strv_74",
+              "type": "tank",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "sw_pt_76b",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "sw_lvkv_42",
+              "type": "SPAA",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "bf-109g-2_finland",
+              "type": "fighter",
+              "mrank": 10,
+              "rank": 4
+            }
+          }
+        },
+        "__int_5047854": {
+          "name": "ReddyTheYeddy",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "[AItF4]",
+          "platform": "win64",
+          "id": 5047854,
+          "slot": 2,
+          "country": "country_ussr",
+          "mrank": 17,
+          "auto_squad": false,
+          "wait_time": 6075,
+          "clanId": 1071799,
+          "tier": 4,
+          "squad": 4097,
+          "rank": 17,
+          "crafts": {
+            "5": "ussr_btr_zd",
+            "4": "la-7",
+            "1": "ussr_t_44",
+            "2": "ussr_asu_85",
+            "0": "ussr_is_2_1944"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 1,
+              "name": "ussr_t_44",
+              "type": "tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_is_2_1944",
+              "type": "heavy_tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "ussr_asu_85",
+              "type": "tank_destroyer",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "ussr_btr_zd",
+              "type": "SPAA",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "la-7",
+              "type": "fighter",
+              "mrank": 11,
+              "rank": 3
+            }
+          }
+        },
+        "__int_1691161": {
+          "name": "Пердёж#2",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "-BIBAS-",
+          "platform": "win64",
+          "id": 1691161,
+          "slot": 4,
+          "country": "country_germany",
+          "mrank": 17,
+          "auto_squad": true,
+          "wait_time": 5053,
+          "clanId": 1061148,
+          "tier": 5,
+          "squad": 2000,
+          "rank": 17,
+          "crafts": {
+            "3": "arado-234",
+            "4": "do_335b_2",
+            "1": "germ_pzkpfw_VI_ausf_b_tiger_IIp",
+            "2": "germ_kanonenjagdpanzer",
+            "0": "germ_le_kpz_m41"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 1,
+              "name": "germ_pzkpfw_VI_ausf_b_tiger_IIp",
+              "type": "heavy_tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_le_kpz_m41",
+              "type": "tank",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "arado-234",
+              "type": "bomber",
+              "mrank": 16,
+              "rank": 5
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "germ_kanonenjagdpanzer",
+              "type": "tank_destroyer",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "do_335b_2",
+              "type": "assault",
+              "mrank": 14,
+              "rank": 4
+            }
+          }
+        },
+        "__int_88479154": {
+          "name": "beast98tiger",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 88479154,
+          "slot": 3,
+          "country": "country_italy",
+          "mrank": 15,
+          "auto_squad": true,
+          "wait_time": 179,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 1002,
+          "rank": 15,
+          "crafts": {
+            "3": "it_m36b1",
+            "4": "it_leopard_bofors",
+            "1": "tu-2_postwar_late_hungary",
+            "2": "it_2s1",
+            "0": "re_2005_serie0"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 4,
+              "name": "it_leopard_bofors",
+              "type": "SPAA",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "it_2s1",
+              "type": "tank_destroyer",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "re_2005_serie0",
+              "type": "fighter",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "it_m36b1",
+              "type": "tank_destroyer",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "tu-2_postwar_late_hungary",
+              "type": "bomber",
+              "mrank": 14,
+              "rank": 4
+            }
+          }
+        },
+        "__int_190314527": {
+          "name": "perikin_volador@psn",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "ps5",
+          "id": 190314527,
+          "slot": 0,
+          "country": "country_ussr",
+          "mrank": 16,
+          "auto_squad": true,
+          "wait_time": 17753,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 1000,
+          "rank": 16,
+          "crafts": {
+            "3": "ussr_asu_85",
+            "4": "pe-8_m82",
+            "1": "ussr_t_34_85_stp_s53",
+            "2": "ussr_is_2_1943",
+            "0": "ussr_su_100_1945"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "ussr_asu_85",
+              "type": "tank_destroyer",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "ussr_is_2_1943",
+              "type": "heavy_tank",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "ussr_t_34_85_stp_s53",
+              "type": "tank",
+              "mrank": 16,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "ussr_su_100_1945",
+              "type": "tank_destroyer",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "pe-8_m82",
+              "type": "bomber",
+              "mrank": 11,
+              "rank": 3
+            }
+          }
+        },
+        "__int_108320060": {
+          "name": "Adobe_Photo29448",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "=CHPA=",
+          "platform": "win64",
+          "id": 108320060,
+          "slot": 0,
+          "country": "country_japan",
+          "mrank": 17,
+          "auto_squad": true,
+          "wait_time": 2932,
+          "clanId": 2821,
+          "tier": 4,
+          "squad": 1002,
+          "rank": 17,
+          "crafts": {
+            "5": "j2m3",
+            "3": "jp_type_5_ho_ri_prototype",
+            "4": "jp_sub_i_ii_20mm",
+            "1": "jp_m36b2_jgsdf",
+            "2": "b7a2_homare_23",
+            "0": "jp_m24_chaffee"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 3,
+              "name": "jp_type_5_ho_ri_prototype",
+              "type": "tank_destroyer",
+              "mrank": 17,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 5,
+              "name": "j2m3",
+              "type": "fighter",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "jp_m36b2_jgsdf",
+              "type": "tank_destroyer",
+              "mrank": 14,
+              "rank": 4
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "jp_sub_i_ii_20mm",
+              "type": "SPAA",
+              "mrank": 13,
+              "rank": 4
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "b7a2_homare_23",
+              "type": "bomber",
+              "mrank": 8,
+              "rank": 3
+            },
+            "array5": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "jp_m24_chaffee",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 3
+            }
+          }
+        },
+        "__int_184741629": {
+          "name": "M stug",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "win64",
+          "id": 184741629,
+          "slot": 4,
+          "country": "country_italy",
+          "mrank": 15,
+          "auto_squad": false,
+          "wait_time": 4623,
+          "clanId": -1,
+          "tier": 4,
+          "squad": 4096,
+          "rank": 15,
+          "crafts": {
+            "3": "fc_20_bis",
+            "4": "it_l3_cc",
+            "1": "it_43m_turan_3",
+            "2": "it_sherman_VII",
+            "0": "it_pzkpfw_VI_ausf_e_tiger"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 0,
+              "name": "it_pzkpfw_VI_ausf_e_tiger",
+              "type": "heavy_tank",
+              "mrank": 15,
+              "rank": 4
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 2,
+              "name": "it_sherman_VII",
+              "type": "tank",
+              "mrank": 11,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "it_43m_turan_3",
+              "type": "tank",
+              "mrank": 9,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "fc_20_bis",
+              "type": "assault",
+              "mrank": 3,
+              "rank": 1
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "it_l3_cc",
+              "type": "tank_destroyer",
+              "mrank": 0,
+              "rank": 1
+            }
+          }
+        },
+        "__int_214574974": {
+          "name": "Captain Balls#1",
+          "elo": 0.0,
+          "team": 2,
+          "clanTag": "[GKiLL]",
+          "platform": "win64",
+          "id": 214574974,
+          "slot": 4,
+          "country": "country_germany",
+          "mrank": 14,
+          "auto_squad": false,
+          "wait_time": 11203,
+          "clanId": 1008440,
+          "tier": 4,
+          "squad": 4098,
+          "rank": 14,
+          "crafts": {
+            "3": "germ_sdkfz_234_2",
+            "4": "germ_pzkpfw_V_ausf_d_panther",
+            "1": "bf-109f-1",
+            "2": "germ_pzkpfw_VI_ausf_h1_tiger",
+            "0": "germ_sdkfz_9_flak37"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "germ_pzkpfw_VI_ausf_h1_tiger",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "germ_pzkpfw_V_ausf_d_panther",
+              "type": "tank",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "germ_sdkfz_9_flak37",
+              "type": "tank_destroyer",
+              "mrank": 9,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "germ_sdkfz_234_2",
+              "type": "tank",
+              "mrank": 8,
+              "rank": 2
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "bf-109f-1",
+              "type": "fighter",
+              "mrank": 5,
+              "rank": 2
+            }
+          }
+        },
+        "__int_48167180": {
+          "name": "Meth_Matician@psn",
+          "elo": 0.0,
+          "team": 1,
+          "clanTag": "",
+          "platform": "ps5",
+          "id": 48167180,
+          "slot": 2,
+          "country": "country_usa",
+          "mrank": 14,
+          "auto_squad": true,
+          "wait_time": 87,
+          "clanId": -1,
+          "tier": 3,
+          "squad": 1003,
+          "rank": 14,
+          "crafts": {
+            "3": "us_m4a1_76w_sherman",
+            "4": "us_m19",
+            "1": "us_m36",
+            "2": "us_m4a3e2_sherman_jumbo",
+            "0": "p-51_mk1a_usaaf"
+          },
+          "crafts_info": {
+            "__array": true,
+            "array0": {
+              "rankUnused": false,
+              "slot": 2,
+              "name": "us_m4a3e2_sherman_jumbo",
+              "type": "heavy_tank",
+              "mrank": 14,
+              "rank": 3
+            },
+            "array1": {
+              "rankUnused": true,
+              "slot": 1,
+              "name": "us_m36",
+              "type": "tank_destroyer",
+              "mrank": 13,
+              "rank": 3
+            },
+            "array2": {
+              "rankUnused": true,
+              "slot": 3,
+              "name": "us_m4a1_76w_sherman",
+              "type": "tank",
+              "mrank": 12,
+              "rank": 3
+            },
+            "array3": {
+              "rankUnused": true,
+              "slot": 4,
+              "name": "us_m19",
+              "type": "SPAA",
+              "mrank": 9,
+              "rank": 3
+            },
+            "array4": {
+              "rankUnused": true,
+              "slot": 0,
+              "name": "p-51_mk1a_usaaf",
+              "type": "fighter",
+              "mrank": 8,
+              "rank": 3
+            }
+          }
+        }
+      }
+    }
+  }
+}
